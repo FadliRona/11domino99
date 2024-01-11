@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://11domino99.jamus.co.uk/sitemap.xml
